@@ -1,3 +1,3 @@
 # DOX-Template
-Dox Template (EN) | Doxing is the practice of searching for and disclosing information about the identity and privacy of an individual on the Internet with the aim of harming him.
-Dox Template (FR) | Le doxing est une pratique consistant à rechercher et à divulguer sur l'internet des informations sur l'identité et la vie privée d'un individu dans le but de lui nuire.
+**ᴅᴏx ᴛᴇᴍᴘʟᴀᴛᴇ (ᴇɴ) |** ᴅᴏxɪɴɢ ɪꜱ ᴛʜᴇ ᴘʀᴀᴄᴛɪᴄᴇ ᴏꜰ ꜱᴇᴀʀᴄʜɪɴɢ ꜰᴏʀ ᴀɴᴅ ᴅɪꜱᴄʟᴏꜱɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ ɪᴅᴇɴᴛɪᴛʏ ᴀɴᴅ ᴘʀɪᴠᴀᴄʏ ᴏꜰ ᴀɴ ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴡɪᴛʜ ᴛʜᴇ ᴀɪᴍ ᴏꜰ ʜᴀʀᴍɪɴɢ ʜɪᴍ.
+**ᴅᴏx ᴛᴇᴍᴘʟᴀᴛᴇ (ꜰʀ) |** ʟᴇ ᴅᴏxɪɴɢ ᴇꜱᴛ ᴜɴᴇ ᴘʀᴀᴛɪQᴜᴇ ᴄᴏɴꜱɪꜱᴛᴀɴᴛ À ʀᴇᴄʜᴇʀᴄʜᴇʀ ᴇᴛ À ᴅɪᴠᴜʟɢᴜᴇʀ ꜱᴜʀ ʟ'ɪɴᴛᴇʀɴᴇᴛ ᴅᴇꜱ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ ꜱᴜʀ ʟ'ɪᴅᴇɴᴛɪᴛÉ ᴇᴛ ʟᴀ ᴠɪᴇ ᴘʀɪᴠÉᴇ ᴅ'ᴜɴ ɪɴᴅɪᴠɪᴅᴜ ᴅᴀɴꜱ ʟᴇ ʙᴜᴛ ᴅᴇ ʟᴜɪ ɴᴜɪʀᴇ.
