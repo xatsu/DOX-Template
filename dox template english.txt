@@ -1,0 +1,93 @@
+https://github.com/xatsu
++--------------------------------------+
+╔═══╗╔═══╗╔═╗╔═╗╔═══╗╔═══╗             |        
+╚╗╔╗║║╔═╗║╚╗╚╝╔╝║╔══╝╚╗╔╗║             |
+─║║║║║║─║║─╚╗╔╝─║╚══╗─║║║║─────────────|
+─║║║║║║─║║─╔╝╚╗─║╔══╝─║║║║──design─────|
+╔╝╚╝║║╚═╝║╔╝╔╗╚╗║╚══╗╔╝╚╝║    by       |
+╚═══╝╚═══╝╚═╝╚═╝╚═══╝╚═══╝   xatsu     |
++--------------------------------------+
+
+
+
++---------------------------------------------------------------+
+|                        Personal Information                   |
++---------------------------------------------------------------+
+First name :
+Last name :
+Age :
+Country :
+State :
+City :
+Address :
+Phone Number :
+
+
+
++---------------------------------------------------------------+
+|                       Social media accounts                   |
++---------------------------------------------------------------+
+YouTube :
+Facebook :
+Twitter :
+Instagram :
+Snapchat :
+Gmail :
+
+
+
++---------------------------------------------------------------+
+|                        IP Information                         |
++---------------------------------------------------------------+
+IP Address :
+Port :
+ISP :
+
+
+
++---------------------------------------------------------------+
+|                     Family Members Information                |
++---------------------------------------------------------------+
++-MOM-+
+First name :
+Last name :
+Age :
+Country :
+State :
+City :
+Address :
+Phone Number :
+E-mail :
+
++-DAD-+
+First name :
+Last name :
+Age :
+Country :
+State :
+City :
+Address :
+Phone Number :
+E-mail :
+
++-BROTHER-+
+First name :
+Last name :
+Age :
+Country :
+State :
+City :
+Address :
+Phone Number :
+E-mail :
+
++-SISTER-+
+First name :
+Last name :
+Age :
+Country :
+State :
+City :
+Address :
+Phone Number :
+E-mail :
